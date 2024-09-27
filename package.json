@@ -1,0 +1,11 @@
+{
+  "name": "node-mspaint",
+  "version": "1.0.0",
+  "description": "Node-JS recreation of mspaint",
+  "main": "main/node.js",
+  "dependencies": {
+    "electron": "^20.3.12",
+    "fs": "^0.0.1-security"
+  },
+  "author": "grammy"
+}

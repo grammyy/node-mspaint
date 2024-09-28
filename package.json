@@ -4,6 +4,7 @@
   "description": "Node-JS recreation of mspaint",
   "main": "main/node.js",
   "dependencies": {
+    "@electron/asar": "^3.2.13",
     "electron": "^20.3.12",
     "fs": "^0.0.1-security"
   },
